@@ -23,9 +23,13 @@ Wall
 
 
 
+
+
 Navigation
 
 ![Screenshot 2021-05-19 at 9 39 30 PM](https://user-images.githubusercontent.com/42440349/118854635-910bd400-b8f2-11eb-9463-a4275543436d.png)
+
+
 
 
 
@@ -37,9 +41,13 @@ Product Details
 
 
 
+
+
 Cart
 
 ![Screenshot 2021-05-19 at 9 41 00 PM](https://user-images.githubusercontent.com/42440349/118854759-a8e35800-b8f2-11eb-98a9-4d905eba2743.png)
+
+
 
 
 
